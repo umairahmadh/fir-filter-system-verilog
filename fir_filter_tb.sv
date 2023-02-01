@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps
 module tb_fir_filter;
 
   reg clk;
